@@ -1,0 +1,6 @@
+.DS_Store
+*.fits
+Catalogs/
+Downloaded Data/
+mastDownload/
+.ipynb_checkpoints/
